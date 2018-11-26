@@ -1,0 +1,16 @@
+{
+  "name": "TRACALORIE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://sailesh97.github.io/TRACALORIE_Track_Your_DietPlan(A Pure JavaScript App",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
